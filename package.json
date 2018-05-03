@@ -1,0 +1,8 @@
+{
+	"name": "mp3Merge",
+	"version": "1.0.0",
+	"private": false,
+	"dependencies": {
+		"audioconcat": "^0.1.3"
+	}
+}
