@@ -5,8 +5,8 @@ const ffmpeg = require('@ffmpeg-installer/ffmpeg');
 
 
 var mp3Files = [
-	'/Users/mayanksharma/Downloads/SampleAudio_0.4mb.mp3',
-	'/Users/mayanksharma/Downloads/SampleAudio_0.7mb.mp3',
+	'SampleAudio_0.4mb.mp3',
+	'SampleAudio_0.7mb.mp3',
 ]
 
 audioconcat(mp3Files)
